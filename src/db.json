@@ -1,0 +1,127 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "logo": "",
+      "salary": 4500,
+      "profession": "Desenvolvedor web",
+      "city": "Volta Redonda",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Benefits": [
+        {
+          "id": 1,
+          "name": "Vale transporte"
+        },
+        {
+          "id": 2,
+          "name": "Vale alimentação"
+        },
+        {
+          "id": 3,
+          "name": "Plano de saúde"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "logo": "",
+      "salary": 3500,
+      "profession": "Social Media",
+      "city": "Rio de Janeiro",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Benefits": [
+        {
+          "id": 3,
+          "name": "Plano de saúde"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "logo": "",
+      "salary": "A combinar",
+      "profession": "Programador",
+      "city": "Volta Redona",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Benefits": []
+    },
+    {
+      "id": 4,
+      "logo": "",
+      "salary": 4500,
+      "profession": "Desenvolvedor back-end",
+      "city": "São Paulo",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Benefits": [
+        {
+          "id": 1,
+          "name": "Vale transporte"
+        },
+        {
+          "id": 2,
+          "name": "Vale alimentação"
+        },
+        {
+          "id": 3,
+          "name": "Plano de saúde"
+        },
+        {
+          "id": 4,
+          "name": "Vale Refeição"
+        }
+      ]
+    }
+  ],
+  "cities": [
+    {
+      "id": 1,
+      "name": "Volta Redonda"
+    },
+    {
+      "id": 2,
+      "name": "Rio de Janeiro"
+    },
+    {
+      "id": 3,
+      "name": "São Paulo"
+    },
+    {
+      "id": 4,
+      "name": "Resende"
+    },
+    {
+      "id": 5,
+      "name": "Barra Mansa"
+    },
+    {
+      "id": 6,
+      "name": "Cidade dos lagos"
+    }
+  ],
+  "Benefits": [
+    {
+      "id": 1,
+      "name": "Vale transporte"
+    },
+    {
+      "id": 2,
+      "name": "Vale alimentação"
+    },
+    {
+      "id": 3,
+      "name": "Plano de saúde"
+    },
+    {
+      "id": 4,
+      "name": "Vale cultura"
+    },
+    {
+      "id": 5,
+      "name": "Vale refeição"
+    },
+    {
+      "id": 3,
+      "name": "Home Office"
+    }
+  ]
+}
